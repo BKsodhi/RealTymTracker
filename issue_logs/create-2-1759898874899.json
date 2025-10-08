@@ -1,0 +1,13 @@
+{
+  "action": "create",
+  "issue": {
+    "id": 2,
+    "title": "Attendance issue",
+    "description": "by mistake marked absent in 2 lectures..",
+    "status": "open",
+    "assignee": "Mr. Ravinder ",
+    "created_at": "2025-10-08 04:47:54",
+    "updated_at": "2025-10-08 04:47:54",
+    "comments": []
+  }
+}
