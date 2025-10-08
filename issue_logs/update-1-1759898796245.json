@@ -1,0 +1,30 @@
+{
+  "action": "update",
+  "before": {
+    "id": 1,
+    "title": "Healthcare sector",
+    "description": "lack of infrastructure in many local hospitals",
+    "status": "resolved",
+    "assignee": "Bhavnoor Kaur",
+    "created_at": "2025-10-08 04:42:54",
+    "updated_at": "2025-10-08 04:43:35"
+  },
+  "after": {
+    "id": 1,
+    "title": "Healthcare sector",
+    "description": "lack of infrastructure in many local hospitals",
+    "status": "closed",
+    "assignee": "Bhavnoor Kaur",
+    "created_at": "2025-10-08 04:42:54",
+    "updated_at": "2025-10-08 04:46:36",
+    "comments": [
+      {
+        "id": 1,
+        "issue_id": 1,
+        "author": "Bhavnoor Kaur ",
+        "text": "paga ",
+        "created_at": "2025-10-08 04:44:23"
+      }
+    ]
+  }
+}
