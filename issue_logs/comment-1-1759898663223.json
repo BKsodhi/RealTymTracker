@@ -1,0 +1,10 @@
+{
+  "action": "comment",
+  "comment": {
+    "id": 1,
+    "issue_id": 1,
+    "author": "Bhavnoor Kaur ",
+    "text": "paga ",
+    "created_at": "2025-10-08 04:44:23"
+  }
+}
