@@ -1,0 +1,22 @@
+{
+  "action": "update",
+  "before": {
+    "id": 3,
+    "title": "abc",
+    "description": "abcxyz",
+    "status": "open",
+    "assignee": "xyz",
+    "created_at": "2025-10-08 05:10:55",
+    "updated_at": "2025-10-08 05:10:57"
+  },
+  "after": {
+    "id": 3,
+    "title": "abc",
+    "description": "abcxyz",
+    "status": "resolved",
+    "assignee": "xyz",
+    "created_at": "2025-10-08 05:10:55",
+    "updated_at": "2025-10-08 05:11:01",
+    "comments": []
+  }
+}
