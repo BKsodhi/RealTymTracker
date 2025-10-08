@@ -1,0 +1,13 @@
+{
+  "action": "create",
+  "issue": {
+    "id": 1,
+    "title": "Healthcare sector",
+    "description": "lack of infrastructure in many local hospitals",
+    "status": "open",
+    "assignee": "Bhavnoor Kaur",
+    "created_at": "2025-10-08 04:42:54",
+    "updated_at": "2025-10-08 04:42:54",
+    "comments": []
+  }
+}
