@@ -1,0 +1,10 @@
+{
+  "action": "comment",
+  "comment": {
+    "id": 2,
+    "issue_id": 3,
+    "author": "Bhavnoor Kaur ",
+    "text": ".....",
+    "created_at": "2025-10-08 05:11:15"
+  }
+}
